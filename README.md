@@ -13,7 +13,7 @@
 <h1 align="center">Merhaba, ben Emre 👋</h1>
 
 <p align="center">
-  <b>Yazılım Geliştirici · Yapay Zekâ & Mobil</b><br/>
+  <b>Yazılım Geliştirici</b><br/>
   Bilişim Sistemleri ve Teknolojileri · Sivas Cumhuriyet Üniversitesi
 </p>
 
