@@ -1,15 +1,3 @@
-<!--
-  KULLANIM: Bu dosyanın içeriği, GitHub PROFİL README'in için hazırlanmıştır.
-  GitHub'da kullanıcı adınla AYNI isimde bir repo açtığında (Emre-Tellioglu/Emre-Tellioglu),
-  o reponun README.md dosyası doğrudan profil sayfanın üstünde görünür.
-
-  Adımlar:
-  1. github.com/new -> Repository name: Emre-Tellioglu (kullanıcı adınla birebir aynı)
-  2. "Add a README file" kutusunu işaretle, repoyu Public yap, oluştur.
-  3. Aşağıdaki (bu yorumdan sonraki) içeriği o README.md'ye yapıştır.
-  4. İstatistik kartlarındaki "Emre-Tellioglu" yazan yerleri değiştirmene gerek yok, kullanıcı adın bu.
--->
-
 <h1 align="center">Merhaba, ben Emre 👋</h1>
 
 <p align="center">
